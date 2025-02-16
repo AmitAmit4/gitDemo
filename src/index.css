@@ -1,0 +1,7 @@
+.product-type:hover{
+    scale: 1.02;
+}
+.product-type{
+    border: 2px solid rgba(156, 148, 148, 0.562);
+    padding: 0.8rem 0.5rem;
+}
